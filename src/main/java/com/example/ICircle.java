@@ -1,6 +1,6 @@
 package com.example;
 
 // What the system expects
-public interface Circle {
+public interface ICircle {
     void draw();
 }
