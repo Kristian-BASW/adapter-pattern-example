@@ -10,7 +10,7 @@ class Rectangle {
         this.height = height;
     }
 
-    public void drawRectangle() {
+    public void draw() {
         System.out.println("Drawing rectangle with width " + width +
                            " and heighth " + height);
     }
